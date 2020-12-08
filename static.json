@@ -1,0 +1,29 @@
+{
+   "headers":{
+      "/*":{
+         "X-Author":"Serega89Kh",
+         "Access-Control-Allow-Origin":"*",
+         "Content-Type":  "text/plain; charset=UTF-8"
+      },
+       "/sample/":{
+         "X-Author":"Serega89Kh",
+         "Access-Control-Allow-Origin":"*",
+         "Content-Type":  "text/plain; charset=UTF-8"
+      }, 
+      "/login/":{
+         "X-Author":"Serega89Kh",
+         "Access-Control-Allow-Origin":"*",
+         "Content-Type":  "text/plain; charset=UTF-8"
+   	  },
+   	  "/promise/":{
+         "X-Author":"Serega89Kh",
+         "Access-Control-Allow-Origin":"*",
+         "Content-Type":  "text/plain; charset=UTF-8"
+   	  },
+   	  "/fetch/":{
+         "X-Author":"Serega89Kh",
+         "Access-Control-Allow-Origin":"*",
+         "Content-Type":  "text/html; charset=UTF-8"
+   	  }
+   }
+}
